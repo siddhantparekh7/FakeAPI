@@ -2,8 +2,9 @@
   "items":[
     {
       "id" : 1,
-      "text": "Learn about Polymer",
+      "title": "Learn about Polymer",
       "created_at": "Mon Apr 26 06:01:55 +0000 2015",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "Tags": [
         "Web Development",
         "Web Components"
@@ -12,7 +13,8 @@
     },
     {
       "id" : 2,
-      "text" : "Watch Pluralsight course on Docker",
+      "title" : "Watch Pluralsight course on Docker",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "created_at" : "Tue Mar 02 07:01:55 +0000 2015",
       "Tags": [
         "Devops",
@@ -22,7 +24,8 @@
     },
     {
       "id" : 3,
-      "text" : "Complete presentation prep for Aurelia presentation",
+      "title" : "Complete presentation prep for Aurelia presentation",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "created_at" : "Wed Mar 05 10:01:55 +0000 2015",
       "Tags": [
         "Presentation",
@@ -32,7 +35,8 @@
     },
     {
       "id" : 4,
-      "text": "Instrument creation of development environment with Puppet",
+      "title": "Instrument creation of development environment with Puppet",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "created_at" : "Fri June 30 13:00:00 +0000 2015",
       "Tags": [
         "Devops",
@@ -42,7 +46,8 @@
     },
     {
       "id" : 5,
-      "text": "Transition code base to ES6",
+      "title": "Transition code base to ES6",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "created_at" : "Mon Aug 01 10:00:00 +0000 2015",
       "Tags": [
         "ES6",
